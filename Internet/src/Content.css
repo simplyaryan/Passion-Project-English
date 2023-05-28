@@ -1,0 +1,57 @@
+.Internet{
+    background-color: green;
+    color:white;
+    padding: 20px;
+    border-radius: 25px;
+    margin-top: 30px;
+    text-align:center;
+    margin-left:calc(100vw/10);
+    margin-right:calc(100vw/10);
+}
+.Internet h2{
+    font-size:3.4vw;
+    font-family:'Roboto', sans-serif;
+}
+.Internet h3{
+    margin-top:20px;
+    font-size:2vw;
+    font-family:'Roboto-light', sans-serif;
+}
+.Internet img{
+    margin-top:30px;
+    border-radius:30px;
+}
+
+
+.HeaderForHowHostingWorks{
+    background-color: red;
+    color:white;
+    padding:10px;
+    border-radius: 25px;
+    margin-top: 30px;
+    text-align:center;
+    margin-left:calc(100vw/10);
+    margin-right:calc(100vw/10);
+}
+.HeaderForHowHostingWorks h2{
+    font-size:4.5vw;
+}
+.ContentForHowHostingWorks{
+    background-color: blue;
+    color:white;
+    padding: 20px;
+    border-radius: 25px;
+    margin-top: 30px;
+    text-align:center;
+    margin-left:calc(100vw/10);
+    margin-right:calc(100vw/10);
+}
+.ContentForHowHostingWorks h2{
+    font-size:2vw;
+}
+.ContentForHowHostingWorks img{
+    border-radius:30px;
+    margin-top:30px;
+    max-width: 100%;
+    height: auto;
+}
