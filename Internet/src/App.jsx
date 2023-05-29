@@ -1,7 +1,7 @@
 import "./App.css";
 import background from "./assets/StarBackground.webp";
 
-function test() {
+function Banner() {
   return (
     <>
       <div className="mainbanner">
@@ -12,4 +12,4 @@ function test() {
     </>
   );
 }
-export default test;
+export default Banner;
